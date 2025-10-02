@@ -3,5 +3,6 @@ trabajo final de POO hecho en Pharo+Smalltalk
 
 
 Sample rapido
-
-https://github.com/Facundo-Sebastian-Ferraris/POO-trabajo-final.git
+```
+|a|
+a := EmpresaTurismoVisual new.```
